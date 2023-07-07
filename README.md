@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felix Mwendia Gathage</h1>
 <h3 align="center">A passionate fullstack Developer from Kenya</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felooh&label=Profile%20views&color=0e75b6&style=flat" alt="felooh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felooh" alt="felooh" /></a> </p>
 
-- 🔭 I’m currently working on [To Do List](https://github.com/felooh/todo-list-app.git)
+- 🔭 I’m currently working on [Bloggin System](https://github.com/felooh/football-frontend.git)
 
 - 🌱 I’m currently learning **Django Framework and Vue.Js**
 
