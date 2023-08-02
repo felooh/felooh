@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felooh" alt="felooh" /></a> </p>
 
-- 🔭 I’m currently working on [Bloggin System](https://github.com/felooh/football-frontend.git)
+- 🔭 I’m currently working on [Blogging System](https://github.com/felooh/football-frontend.git)
 
 - 🌱 I’m currently learning **Django Framework and Vue.Js**
 
